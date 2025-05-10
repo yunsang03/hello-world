@@ -1,2 +1,3 @@
 # hello-world
-HW#6: HelloWorld via GitHub
+HW#6: Hello World via GitHub
+print("Hello World")
